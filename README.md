@@ -1,6 +1,6 @@
-HENRY’S LABS
-Roberto Pedro DATA-12
-PROYECTO INDIVIDUAL 02 --Data Analyst
+# HENRY’S LABS
+# Roberto Pedro DATA-12
+# PROYECTO INDIVIDUAL 02 --Data Analyst
 
 
 ## Análisis del Sector de Telecomunicaciones en Argentina
