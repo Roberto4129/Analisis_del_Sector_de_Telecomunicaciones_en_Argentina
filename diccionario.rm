@@ -1,0 +1,28 @@
+## tipos de acsesos a internet
+
+
+# Acseso telefonico (DIALUP):  
+_Es el mas anitguo. MODEM telefonico y linea telefonico. Datos y voz se transmiten por la misma frecuencia.
+_No se puede llamar y navergar al mismo tiempo.
+
+# Banda ancha por ADSL:
+_Se utiliza el mismo cable que usa para llama de voz, en frecuencias distintas.Logrando simultaneidad.
+_gran velocidad.
+ADSL: linea digital de suacriptor asimetrica.
+DSLAM: multiplexor digital de acseso a linea de abonado.
+
+# Acseso por cable MODEM(por prestadores de servisico de cable):
+-Las prestadores de video cable usan el troncal de fibra optica. transmiten señal por el mismo coaxil.
+_Canales y datos utilizan diferentes bandas de frecuencia.
+
+# Acseso a internet en redes de telefonia :
+_Acseso por redes utilizando tecnologias movil:
+    UMTS sistema universal de telecominicaciones movil, utilizado actualmente, aumanta la velocidad de transferencia.
+    HSDPA high speed dowlink packet access. utiliza en el pais la misma banda de frecuencia que la telefonia movil.
+    Usando chip 3g, acseso inalambrico.
+
+# Acseso satelital
+_ Para localidades rurales, utiliza DVBS digitaln video broadcast satelital MODEM bpl
+
+
+# Wireless: significa “sin cables” o “inalámbrico” , vinculado a todo tipo de comunicación que no requiere de un medio de transmisión física. 
